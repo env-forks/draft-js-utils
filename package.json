@@ -1,6 +1,6 @@
 {
   "name": "draft-js-utils",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Collection of utilities for DraftJS",
   "main": "lib/main.js",
   "scripts": {
@@ -26,10 +26,10 @@
     "babel-preset-stage-2": "^6.5.0",
     "eslint": "^2.8.0",
     "eslint-plugin-babel": "^3.2.0",
-    "eslint-plugin-flow-vars": "^0.3.0",
-    "eslint-plugin-react": "^4.3.0",
+    "eslint-plugin-flow-vars": "^0.4.0",
+    "eslint-plugin-react": "^5.1.1",
     "expect": "^1.16.0",
-    "flow-bin": "^0.23.0",
+    "flow-bin": "^0.27.0",
     "mocha": "^2.4.5",
     "react": "^15.0.1",
     "react-dom": "^15.0.1"
@@ -60,6 +60,10 @@
     {
       "name": "Greg Ziegan",
       "url": "https://github.com/thebritican"
+    },
+    {
+      "name": "Shaun Robinson",
+      "url": "https://github.com/env"
     }
   ],
   "license": "ISC",
